@@ -8,7 +8,7 @@
 - 💡 Constantly learning and exploring new technologies.
 
  ## Skills
-- 💻 Programming:Java, java Script, HTML
+- 💻 Programming:Java, HTML
 - 🤝 Teamwork and Collaboration: Excellent interpersonal and communication skills.
 
 <!---
